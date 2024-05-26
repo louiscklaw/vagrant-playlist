@@ -1,0 +1,5 @@
+
+vagrant destroy
+
+vagrant up
+
