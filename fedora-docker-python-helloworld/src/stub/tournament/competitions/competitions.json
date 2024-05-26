@@ -1,0 +1,499 @@
+{
+    "data": [
+        {
+            "categoryId": 10227,
+            "categoryName": "England",
+            "categoryImg": "england",
+            "competitions": [
+                {
+                    "competitionId": 50015668,
+                    "competitionName": "Eng Premier",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50015668/standings"
+                },
+                {
+                    "competitionId": 50016923,
+                    "competitionName": "Eng Championship",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50016923/standings"
+                },
+                {
+                    "competitionId": 50016924,
+                    "competitionName": "Eng League 1",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50016924/standings"
+                },
+                {
+                    "competitionId": 50016925,
+                    "competitionName": "Eng League 2",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50016925/standings"
+                },
+                {
+                    "competitionId": 50022578,
+                    "competitionName": "FA Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50022578/standings"
+                },
+                {
+                    "competitionId": 50018849,
+                    "competitionName": "Eng League Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50018849/standings"
+                },
+                {
+                    "competitionId": 50020336,
+                    "competitionName": "Eng League Trophy",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50020336/standings"
+                },
+                {
+                    "competitionId": 50015602,
+                    "competitionName": "Eng Shield",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50015602/standings"
+                }
+            ]
+        },
+        {
+            "categoryId": 10013,
+            "categoryName": "Australia",
+            "categoryImg": "australia",
+            "competitions": [
+                {
+                    "competitionId": 50022033,
+                    "competitionName": "Australian Division 1",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50022033/standings"
+                },
+                {
+                    "competitionId": 50015616,
+                    "competitionName": "Australian FA Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50015616/standings"
+                }
+            ]
+        },
+        {
+            "categoryId": 10200,
+            "categoryName": "Spain",
+            "categoryImg": "spain",
+            "competitions": [
+                {
+                    "competitionId": 50016200,
+                    "competitionName": "Spanish Division 1",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50016200/standings"
+                },
+                {
+                    "competitionId": 50019599,
+                    "competitionName": "Spanish Division 2",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50019599/standings"
+                },
+                {
+                    "competitionId": 50022469,
+                    "competitionName": "Spanish Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50022469/standings"
+                },
+                {
+                    "competitionId": 50024282,
+                    "competitionName": "Spanish Super Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50024282/standings"
+                }
+            ]
+        },
+        {
+            "categoryId": 10082,
+            "categoryName": "Germany",
+            "categoryImg": "germany",
+            "competitions": [
+                {
+                    "competitionId": 50016467,
+                    "competitionName": "German Division 1",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50016467/standings"
+                },
+                {
+                    "competitionId": 50016660,
+                    "competitionName": "German Division 2",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50016660/standings"
+                },
+                {
+                    "competitionId": 50019550,
+                    "competitionName": "German Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50019550/standings"
+                },
+                {
+                    "competitionId": 50019595,
+                    "competitionName": "German Super Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50019595/standings"
+                }
+            ]
+        },
+        {
+            "categoryId": 10107,
+            "categoryName": "Italy",
+            "categoryImg": "italy",
+            "competitions": [
+                {
+                    "competitionId": 50016549,
+                    "competitionName": "Italian Division 1",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50016549/standings"
+                },
+                {
+                    "competitionId": 50019580,
+                    "competitionName": "Italian Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50019580/standings"
+                },
+                {
+                    "competitionId": 50024543,
+                    "competitionName": "Italian Super Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50024543/standings"
+                }
+            ]
+        },
+        {
+            "categoryId": 10228,
+            "categoryName": "USA",
+            "categoryImg": "united-states-of-america",
+            "competitions": [
+                {
+                    "competitionId": 50011183,
+                    "competitionName": "US Football League",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50011183/standings"
+                },
+                {
+                    "competitionId": 50013586,
+                    "competitionName": "US League Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50013586/standings"
+                }
+            ]
+        },
+        {
+            "categoryId": 10115,
+            "categoryName": "Korea Republic",
+            "categoryImg": "south-korea",
+            "competitions": [
+                {
+                    "competitionId": 50011096,
+                    "competitionName": "Korean Division 1",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50011096/standings"
+                },
+                {
+                    "competitionId": 50012908,
+                    "competitionName": "Korean FA Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50012908/standings"
+                }
+            ]
+        },
+        {
+            "categoryId": 10109,
+            "categoryName": "Japan",
+            "categoryImg": "japan",
+            "competitions": [
+                {
+                    "competitionId": 50010052,
+                    "competitionName": "Japanese Division 1",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50010052/standings"
+                },
+                {
+                    "competitionId": 50010155,
+                    "competitionName": "Japanese Division 2",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50010155/standings"
+                },
+                {
+                    "competitionId": 50011744,
+                    "competitionName": "Japanese League Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50011744/standings"
+                },
+                {
+                    "competitionId": 50014594,
+                    "competitionName": "Emperor's Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50014594/standings"
+                },
+                {
+                    "competitionId": 50010020,
+                    "competitionName": "Japanese Super Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50010020/standings"
+                }
+            ]
+        },
+        {
+            "categoryId": 10140,
+            "categoryName": "Mexico",
+            "categoryImg": "mexico",
+            "competitions": [
+                {
+                    "competitionId": 50024375,
+                    "competitionName": "Mexican Premier",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50024375/standings"
+                },
+                {
+                    "competitionId": 127,
+                    "competitionName": "Mexican Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/127/standings"
+                },
+                {
+                    "competitionId": 141,
+                    "competitionName": "Mexican Super Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/141/standings"
+                },
+                {
+                    "competitionId": 50015005,
+                    "competitionName": "Mexican Champion Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50015005/standings"
+                }
+            ]
+        },
+        {
+            "categoryId": 10010,
+            "categoryName": "Argentina",
+            "categoryImg": "argentina",
+            "competitions": [
+                {
+                    "competitionId": 50024762,
+                    "competitionName": "Argentine Division 1",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50024762/standings"
+                },
+                {
+                    "competitionId": 50023611,
+                    "competitionName": "Argentine Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50023611/standings"
+                },
+                {
+                    "competitionId": 50010688,
+                    "competitionName": "Argentine Super Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50010688/standings"
+                },
+                {
+                    "competitionId": 910,
+                    "competitionName": "APL Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/910/standings"
+                }
+            ]
+        },
+        {
+            "categoryId": 10074,
+            "categoryName": "France",
+            "categoryImg": "france",
+            "competitions": [
+                {
+                    "competitionId": 50016199,
+                    "competitionName": "French Division 1",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50016199/standings"
+                },
+                {
+                    "competitionId": 50018675,
+                    "competitionName": "French Division 2",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50018675/standings"
+                },
+                {
+                    "competitionId": 50023043,
+                    "competitionName": "French FA Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50023043/standings"
+                },
+                {
+                    "competitionId": 28,
+                    "competitionName": "French League Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/28/standings"
+                },
+                {
+                    "competitionId": 50023652,
+                    "competitionName": "French Champion Trophy",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50023652/standings"
+                }
+            ]
+        },
+        {
+            "categoryId": 10179,
+            "categoryName": "Russia",
+            "categoryImg": "russia",
+            "competitions": [
+                {
+                    "competitionId": 50016142,
+                    "competitionName": "Russian Premier",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50016142/standings"
+                },
+                {
+                    "competitionId": 50016363,
+                    "competitionName": "Russian Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50016363/standings"
+                },
+                {
+                    "competitionId": 50015520,
+                    "competitionName": "Russian Super Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50015520/standings"
+                }
+            ]
+        },
+        {
+            "categoryId": 10208,
+            "categoryName": "Sweden",
+            "categoryImg": "sweden",
+            "competitions": [
+                {
+                    "competitionId": 50023185,
+                    "competitionName": "Swedish Division 1",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50023185/standings"
+                },
+                {
+                    "competitionId": 50019777,
+                    "competitionName": "Swedish Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50019777/standings"
+                }
+            ]
+        },
+        {
+            "categoryId": 10174,
+            "categoryName": "Portugal",
+            "categoryImg": "portugal",
+            "competitions": [
+                {
+                    "competitionId": 50019002,
+                    "competitionName": "Portuguese Premier",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50019002/standings"
+                },
+                {
+                    "competitionId": 50022009,
+                    "competitionName": "Portuguese Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50022009/standings"
+                },
+                {
+                    "competitionId": 50016144,
+                    "competitionName": "Portuguese League Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50016144/standings"
+                },
+                {
+                    "competitionId": 50018847,
+                    "competitionName": "Portuguese Super Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50018847/standings"
+                }
+            ]
+        },
+        {
+            "categoryId": 10163,
+            "categoryName": "Norway",
+            "categoryImg": "norway",
+            "competitions": [
+                {
+                    "competitionId": 50012569,
+                    "competitionName": "Norwegian Division 1",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50012569/standings"
+                },
+                {
+                    "competitionId": 50014272,
+                    "competitionName": "Norwegian Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50014272/standings"
+                },
+                {
+                    "competitionId": 151,
+                    "competitionName": "Norwegian Super Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/151/standings"
+                }
+            ]
+        },
+        {
+            "categoryId": 10153,
+            "categoryName": "Netherlands",
+            "categoryImg": "netherlands",
+            "competitions": [
+                {
+                    "competitionId": 50019000,
+                    "competitionName": "Dutch Division 1",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50019000/standings"
+                },
+                {
+                    "competitionId": 50019001,
+                    "competitionName": "Dutch Division 2",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50019001/standings"
+                },
+                {
+                    "competitionId": 50022411,
+                    "competitionName": "Dutch Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50022411/standings"
+                },
+                {
+                    "competitionId": 50018763,
+                    "competitionName": "Dutch Super Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50018763/standings"
+                }
+            ]
+        },
+        {
+            "categoryId": 10030,
+            "categoryName": "Brazil",
+            "categoryImg": "brazil",
+            "competitions": [
+                {
+                    "competitionId": 50013324,
+                    "competitionName": "Brazilian Division 1",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50013324/standings"
+                },
+                {
+                    "competitionId": 50024101,
+                    "competitionName": "Brazilian Paulista League",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50024101/standings"
+                },
+                {
+                    "competitionId": 50012097,
+                    "competitionName": "Brazilian Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50012097/standings"
+                }
+            ]
+        },
+        {
+            "categoryId": 10043,
+            "categoryName": "Chile",
+            "categoryImg": "chile",
+            "competitions": [
+                {
+                    "competitionId": 50009057,
+                    "competitionName": "Chilean Division 1",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50009057/standings"
+                },
+                {
+                    "competitionId": 50014689,
+                    "competitionName": "Chilean Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50014689/standings"
+                },
+                {
+                    "competitionId": 50009056,
+                    "competitionName": "Chilean Super Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50009056/standings"
+                }
+            ]
+        },
+        {
+            "categoryId": 10021,
+            "categoryName": "Belgium",
+            "categoryImg": "belgium",
+            "competitions": [
+                {
+                    "competitionId": 50016588,
+                    "competitionName": "Belgian Division 1",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50016588/standings"
+                },
+                {
+                    "competitionId": 50022259,
+                    "competitionName": "Belgian Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50022259/standings"
+                },
+                {
+                    "competitionId": 50016140,
+                    "competitionName": "Belgian Super Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50016140/standings"
+                }
+            ]
+        },
+        {
+            "categoryId": 10246,
+            "categoryName": "Scotland",
+            "categoryImg": "scotland",
+            "competitions": [
+                {
+                    "competitionId": 50018485,
+                    "competitionName": "Scottish Premier",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50018485/standings"
+                },
+                {
+                    "competitionId": 50024631,
+                    "competitionName": "Scottish FA Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50024631/standings"
+                },
+                {
+                    "competitionId": 50015522,
+                    "competitionName": "Scottish League Cup",
+                    "standing_table_link": "https://footylogic.com/en/tournament/league/50015522/standings"
+                }
+            ]
+        }
+    ]
+}

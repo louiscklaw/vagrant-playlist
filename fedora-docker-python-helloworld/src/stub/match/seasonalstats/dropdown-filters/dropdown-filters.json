@@ -1,0 +1,82 @@
+{
+    "statusCode": 200,
+    "data": {
+        "Season": [
+            {
+                "id": 4446,
+                "name": "2023/24 ",
+                "competitionId": 50016588
+            },
+            {
+                "id": 4219,
+                "name": "2022/23 ",
+                "competitionId": 50016588
+            },
+            {
+                "id": 3979,
+                "name": "2021/22 ",
+                "competitionId": 50016588
+            },
+            {
+                "id": 3647,
+                "name": "2020/21 ",
+                "competitionId": 50016588
+            },
+            {
+                "id": 3221,
+                "name": "2019/20 ",
+                "competitionId": 50016588
+            },
+            {
+                "id": 3025,
+                "name": "2018/19 ",
+                "competitionId": 50016588
+            },
+            {
+                "id": 2697,
+                "name": "2017/18 ",
+                "competitionId": 50016588
+            },
+            {
+                "id": 2006,
+                "name": "2016/17 ",
+                "competitionId": 50016588
+            },
+            {
+                "id": 1781,
+                "name": "2015/16 ",
+                "competitionId": 50016588
+            }
+        ],
+        "Options": [
+            {
+                "id": 1,
+                "name": "All",
+                "competitionId": 50016588
+            },
+            {
+                "id": 2,
+                "name": "Home",
+                "competitionId": 50016588
+            },
+            {
+                "id": 3,
+                "name": "Away",
+                "competitionId": 50016588
+            }
+        ],
+        "betType": [
+            {
+                "id": 1,
+                "name": "HalfTime",
+                "competitionId": 50016588
+            },
+            {
+                "id": 2,
+                "name": "FullTime",
+                "competitionId": 50016588
+            }
+        ]
+    },
+    "message": "success"
+}

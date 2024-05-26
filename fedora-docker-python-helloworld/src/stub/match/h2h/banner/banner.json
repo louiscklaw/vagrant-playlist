@@ -1,0 +1,29 @@
+{
+    "data": {
+        "eventId": "50024766",
+        "homeTeamLogo": 13307,
+        "awayTeamLogo": 10939,
+        "homeTeamName": "Union Saint Gilloise",
+        "awayTeamName": "Anderlecht",
+        "competitionName": "Belgian Cup",
+        "kickOffTime": "2024-01-25 19:30:00",
+        "homeOdds": 1.68,
+        "awayOdds": 3.95,
+        "drawOdds": 3.5,
+        "homeTeamId": 50003201,
+        "homeTeamIdNav": 50003201,
+        "awayTeamId": 50000175,
+        "awayTeamIdNav": 50000175,
+        "matchNumber": null,
+        "homeTeamPos": "1",
+        "awayTeamPos": "2",
+        "matchDayCode": "FB0744",
+        "competitionId": 50022259,
+        "tournamentType": "League",
+        "homePlayerAnalysis": 2,
+        "awayPlayerAnalysis": 2,
+        "homeLeagueShortName": "BEL L1",
+        "awayLeagueShortName": "BEL L1",
+        "competitionIdNav": 50022259
+    }
+}

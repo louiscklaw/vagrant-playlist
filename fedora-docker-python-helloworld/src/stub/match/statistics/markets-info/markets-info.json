@@ -1,0 +1,730 @@
+{
+  "leagueTable": {
+    "homeTeam": {
+      "all": {
+        "teamPlayed": "31",
+        "teamWin": "7",
+        "teamDraw": "9",
+        "teamLoss": "15",
+        "teamGF": "23",
+        "teamGA": "43",
+        "points": "30",
+        "winpercentage": 23
+      },
+      "home": {
+        "teamPlayed": "15",
+        "teamWin": "3",
+        "teamDraw": "7",
+        "teamLoss": "5",
+        "teamGF": "10",
+        "teamGA": "15",
+        "points": "16",
+        "winpercentage": 20
+      },
+      "away": {
+        "teamPlayed": "16",
+        "teamWin": "4",
+        "teamDraw": "2",
+        "teamLoss": "10",
+        "teamGF": "13",
+        "teamGA": "28",
+        "points": "14",
+        "winpercentage": 25
+      }
+    },
+    "awayTeam": {
+      "all": {
+        "teamPlayed": "31",
+        "teamWin": "12",
+        "teamDraw": "12",
+        "teamLoss": "7",
+        "teamGF": "40",
+        "teamGA": "27",
+        "points": "48",
+        "winpercentage": 39
+      },
+      "home": {
+        "teamPlayed": "16",
+        "teamWin": "9",
+        "teamDraw": "6",
+        "teamLoss": "1",
+        "teamGF": "27",
+        "teamGA": "11",
+        "points": "33",
+        "winpercentage": 56
+      },
+      "away": {
+        "teamPlayed": "15",
+        "teamWin": "3",
+        "teamDraw": "6",
+        "teamLoss": "6",
+        "teamGF": "13",
+        "teamGA": "16",
+        "points": "15",
+        "winpercentage": 20
+      }
+    }
+  },
+  "handicapTable": {
+    "homeTeam": {
+      "all": {
+        "teamWin": "4",
+        "teamHalfWin": "4",
+        "teamDraw": "2",
+        "teamHalfLoss": "1",
+        "teamLoss": "8",
+        "winPct": 21,
+        "halfWinPct": 21,
+        "drawPct": 11,
+        "halfLossPct": 5.263157894736842,
+        "lossPct": 42
+      },
+      "home": {
+        "teamWin": "2",
+        "teamHalfWin": "3",
+        "teamDraw": "2",
+        "teamHalfLoss": "0",
+        "teamLoss": "3",
+        "winPct": 20,
+        "halfWinPct": 30,
+        "drawPct": 20,
+        "halfLossPct": 0,
+        "lossPct": 30
+      },
+      "away": {
+        "teamWin": "2",
+        "teamHalfWin": "1",
+        "teamDraw": "0",
+        "teamHalfLoss": "1",
+        "teamLoss": "5",
+        "winPct": 22,
+        "halfWinPct": 11,
+        "drawPct": 0,
+        "halfLossPct": 11.11111111111111,
+        "lossPct": 56
+      }
+    },
+    "awayTeam": {
+      "all": {
+        "teamWin": "6",
+        "teamHalfWin": "2",
+        "teamDraw": "1",
+        "teamHalfLoss": "1",
+        "teamLoss": "8",
+        "winPct": 33,
+        "halfWinPct": 11,
+        "drawPct": 6,
+        "halfLossPct": 5.555555555555555,
+        "lossPct": 44
+      },
+      "home": {
+        "teamWin": "4",
+        "teamHalfWin": "0",
+        "teamDraw": "0",
+        "teamHalfLoss": "1",
+        "teamLoss": "4",
+        "winPct": 44,
+        "halfWinPct": 0,
+        "drawPct": 0,
+        "halfLossPct": 11.11111111111111,
+        "lossPct": 44
+      },
+      "away": {
+        "teamWin": "2",
+        "teamHalfWin": "2",
+        "teamDraw": "1",
+        "teamHalfLoss": "0",
+        "teamLoss": "4",
+        "winPct": 22,
+        "halfWinPct": 22,
+        "drawPct": 11,
+        "halfLossPct": 0,
+        "lossPct": 44
+      }
+    }
+  },
+  "handicapHadTable": {
+    "homeTeam": {
+      "all": {
+        "teamWin": "12",
+        "teamDraw": "4",
+        "teamLoss": "13",
+        "winPct": 41,
+        "drawPct": 14,
+        "lossPct": 45
+      },
+      "home": {
+        "teamWin": "7",
+        "teamDraw": "1",
+        "teamLoss": "6",
+        "winPct": 50,
+        "drawPct": 7,
+        "lossPct": 43
+      },
+      "away": {
+        "teamWin": "5",
+        "teamDraw": "3",
+        "teamLoss": "7",
+        "winPct": 33,
+        "drawPct": 20,
+        "lossPct": 47
+      }
+    },
+    "awayTeam": {
+      "all": {
+        "teamWin": "11",
+        "teamDraw": "8",
+        "teamLoss": "10",
+        "winPct": 38,
+        "drawPct": 28,
+        "lossPct": 34
+      },
+      "home": {
+        "teamWin": "4",
+        "teamDraw": "5",
+        "teamLoss": "6",
+        "winPct": 27,
+        "drawPct": 33,
+        "lossPct": 40
+      },
+      "away": {
+        "teamWin": "7",
+        "teamDraw": "3",
+        "teamLoss": "4",
+        "winPct": 50,
+        "drawPct": 21,
+        "lossPct": 29
+      }
+    }
+  },
+  "oddEvenTable": {
+    "homeTeam": {
+      "all": { "teamOdd": "10", "teamEven": "21", "oddPct": 32, "evenPct": 68 },
+      "home": { "teamOdd": "3", "teamEven": "12", "oddPct": 20, "evenPct": 80 },
+      "away": { "teamOdd": "7", "teamEven": "9", "oddPct": 44, "evenPct": 56 }
+    },
+    "awayTeam": {
+      "all": { "teamOdd": "15", "teamEven": "16", "oddPct": 48, "evenPct": 52 },
+      "home": { "teamOdd": "8", "teamEven": "8", "oddPct": 50, "evenPct": 50 },
+      "away": { "teamOdd": "7", "teamEven": "8", "oddPct": 47, "evenPct": 53 }
+    }
+  },
+  "goalsTable": {
+    "homeTeam": {
+      "all": {
+        "goalsZero": "3",
+        "goalsOne": "6",
+        "goalsTwo": "13",
+        "goalsThree": "4",
+        "goalsFour": "4",
+        "goalsFive": "0",
+        "goalsSix": "1",
+        "goalsSevenplus": "0",
+        "average": "2.1"
+      },
+      "home": {
+        "goalsZero": "3",
+        "goalsOne": "2",
+        "goalsTwo": "8",
+        "goalsThree": "1",
+        "goalsFour": "1",
+        "goalsFive": "0",
+        "goalsSix": "0",
+        "goalsSevenplus": "0",
+        "average": "1.7"
+      },
+      "away": {
+        "goalsZero": "0",
+        "goalsOne": "4",
+        "goalsTwo": "5",
+        "goalsThree": "3",
+        "goalsFour": "3",
+        "goalsFive": "0",
+        "goalsSix": "1",
+        "goalsSevenplus": "0",
+        "average": "2.6"
+      }
+    },
+    "awayTeam": {
+      "all": {
+        "goalsZero": "4",
+        "goalsOne": "7",
+        "goalsTwo": "9",
+        "goalsThree": "5",
+        "goalsFour": "3",
+        "goalsFive": "3",
+        "goalsSix": "0",
+        "goalsSevenplus": "0",
+        "average": "2.2"
+      },
+      "home": {
+        "goalsZero": "1",
+        "goalsOne": "3",
+        "goalsTwo": "7",
+        "goalsThree": "2",
+        "goalsFour": "0",
+        "goalsFive": "3",
+        "goalsSix": "0",
+        "goalsSevenplus": "0",
+        "average": "2.4"
+      },
+      "away": {
+        "goalsZero": "3",
+        "goalsOne": "4",
+        "goalsTwo": "2",
+        "goalsThree": "3",
+        "goalsFour": "3",
+        "goalsFive": "0",
+        "goalsSix": "0",
+        "goalsSevenplus": "0",
+        "average": "1.9"
+      }
+    }
+  },
+  "correctScoreTable": {
+    "homeTeam": {
+      "all": {
+        "score1_0": "3",
+        "score2_0": "2",
+        "score2_1": "1",
+        "score0_0": "3",
+        "score1_1": "4",
+        "score2_2": "2",
+        "score0_1": "3",
+        "score0_2": "7",
+        "score1_2": "1"
+      },
+      "home": {
+        "score1_0": "2",
+        "score2_0": "0",
+        "score2_1": "0",
+        "score0_0": "3",
+        "score1_1": "4",
+        "score2_2": "0",
+        "score0_1": "0",
+        "score0_2": "4",
+        "score1_2": "1"
+      },
+      "away": {
+        "score1_0": "1",
+        "score2_0": "2",
+        "score2_1": "1",
+        "score0_0": "0",
+        "score1_1": "0",
+        "score2_2": "2",
+        "score0_1": "3",
+        "score0_2": "3",
+        "score1_2": "0"
+      }
+    },
+    "awayTeam": {
+      "all": {
+        "score1_0": "2",
+        "score2_0": "2",
+        "score2_1": "2",
+        "score0_0": "4",
+        "score1_1": "7",
+        "score2_2": "1",
+        "score0_1": "5",
+        "score0_2": "0",
+        "score1_2": "1"
+      },
+      "home": {
+        "score1_0": "2",
+        "score2_0": "2",
+        "score2_1": "1",
+        "score0_0": "1",
+        "score1_1": "5",
+        "score2_2": "0",
+        "score0_1": "1",
+        "score0_2": "0",
+        "score1_2": "0"
+      },
+      "away": {
+        "score1_0": "0",
+        "score2_0": "0",
+        "score2_1": "1",
+        "score0_0": "3",
+        "score1_1": "2",
+        "score2_2": "1",
+        "score0_1": "4",
+        "score0_2": "0",
+        "score1_2": "1"
+      }
+    }
+  },
+  "firstHalfCorrectScoreTable": {
+    "homeTeam": {
+      "all": {
+        "score1_0": "6",
+        "score2_0": "1",
+        "score2_1": "1",
+        "score0_0": "13",
+        "score1_1": "1",
+        "score2_2": "0",
+        "score0_1": "6",
+        "score0_2": "2",
+        "score1_2": "0"
+      },
+      "home": {
+        "score1_0": "4",
+        "score2_0": "0",
+        "score2_1": "0",
+        "score0_0": "8",
+        "score1_1": "0",
+        "score2_2": "0",
+        "score0_1": "2",
+        "score0_2": "1",
+        "score1_2": "0"
+      },
+      "away": {
+        "score1_0": "2",
+        "score2_0": "1",
+        "score2_1": "1",
+        "score0_0": "5",
+        "score1_1": "1",
+        "score2_2": "0",
+        "score0_1": "4",
+        "score0_2": "1",
+        "score1_2": "0"
+      }
+    },
+    "awayTeam": {
+      "all": {
+        "score1_0": "2",
+        "score2_0": "0",
+        "score2_1": "1",
+        "score0_0": "12",
+        "score1_1": "1",
+        "score2_2": "0",
+        "score0_1": "12",
+        "score0_2": "0",
+        "score1_2": "1"
+      },
+      "home": {
+        "score1_0": "2",
+        "score2_0": "0",
+        "score2_1": "0",
+        "score0_0": "5",
+        "score1_1": "1",
+        "score2_2": "0",
+        "score0_1": "6",
+        "score0_2": "0",
+        "score1_2": "1"
+      },
+      "away": {
+        "score1_0": "0",
+        "score2_0": "0",
+        "score2_1": "1",
+        "score0_0": "7",
+        "score1_1": "0",
+        "score2_2": "0",
+        "score0_1": "6",
+        "score0_2": "0",
+        "score1_2": "0"
+      }
+    }
+  },
+  "htFtTable": {
+    "homeTeam": {
+      "all": {
+        "teamWinWin": "5",
+        "teamDrawWin": "2",
+        "teamLossWin": "0",
+        "teamWinDraw": "2",
+        "teamDrawDraw": "7",
+        "teamLossDraw": "0",
+        "teamWinLoss": "1",
+        "teamDrawLoss": "5",
+        "teamLossLoss": "9"
+      },
+      "home": {
+        "teamWinWin": "3",
+        "teamDrawWin": "0",
+        "teamLossWin": "0",
+        "teamWinDraw": "1",
+        "teamDrawDraw": "6",
+        "teamLossDraw": "0",
+        "teamWinLoss": "0",
+        "teamDrawLoss": "2",
+        "teamLossLoss": "3"
+      },
+      "away": {
+        "teamWinWin": "2",
+        "teamDrawWin": "2",
+        "teamLossWin": "0",
+        "teamWinDraw": "1",
+        "teamDrawDraw": "1",
+        "teamLossDraw": "0",
+        "teamWinLoss": "1",
+        "teamDrawLoss": "3",
+        "teamLossLoss": "6"
+      }
+    },
+    "awayTeam": {
+      "all": {
+        "teamWinWin": "4",
+        "teamDrawWin": "5",
+        "teamLossWin": "3",
+        "teamWinDraw": "1",
+        "teamDrawDraw": "6",
+        "teamLossDraw": "5",
+        "teamWinLoss": "0",
+        "teamDrawLoss": "2",
+        "teamLossLoss": "5"
+      },
+      "home": {
+        "teamWinWin": "3",
+        "teamDrawWin": "3",
+        "teamLossWin": "3",
+        "teamWinDraw": "0",
+        "teamDrawDraw": "2",
+        "teamLossDraw": "4",
+        "teamWinLoss": "0",
+        "teamDrawLoss": "1",
+        "teamLossLoss": "0"
+      },
+      "away": {
+        "teamWinWin": "1",
+        "teamDrawWin": "2",
+        "teamLossWin": "0",
+        "teamWinDraw": "1",
+        "teamDrawDraw": "4",
+        "teamLossDraw": "1",
+        "teamWinLoss": "0",
+        "teamDrawLoss": "1",
+        "teamLossLoss": "5"
+      }
+    }
+  },
+  "cornerHiLoTable": {
+    "homeTeam": {
+      "all": [
+        { "line": 8.5, "high": 7, "low": 11, "highPct": 39, "lowPct": 61 },
+        { "line": 9.5, "high": 5, "low": 13, "highPct": 28, "lowPct": 72 },
+        { "line": 10.5, "high": 2, "low": 16, "highPct": 11, "lowPct": 89 },
+        { "line": 11.5, "high": 2, "low": 16, "highPct": 11, "lowPct": 89 },
+        { "line": 12.5, "high": 1, "low": 17, "highPct": 6, "lowPct": 94 }
+      ],
+      "home": [
+        { "line": 8.5, "high": 5, "low": 4, "highPct": 56, "lowPct": 44 },
+        { "line": 9.5, "high": 4, "low": 5, "highPct": 44, "lowPct": 56 },
+        { "line": 10.5, "high": 2, "low": 7, "highPct": 22, "lowPct": 78 },
+        { "line": 11.5, "high": 2, "low": 7, "highPct": 22, "lowPct": 78 },
+        { "line": 12.5, "high": 1, "low": 8, "highPct": 11, "lowPct": 89 }
+      ],
+      "away": [
+        { "line": 8.5, "high": 2, "low": 7, "highPct": 22, "lowPct": 78 },
+        { "line": 9.5, "high": 1, "low": 8, "highPct": 11, "lowPct": 89 },
+        { "line": 10.5, "high": 0, "low": 9, "highPct": 0, "lowPct": 100 },
+        { "line": 11.5, "high": 0, "low": 9, "highPct": 0, "lowPct": 100 },
+        { "line": 12.5, "high": 0, "low": 9, "highPct": 0, "lowPct": 100 }
+      ]
+    },
+    "awayTeam": {
+      "all": [
+        { "line": 8.5, "high": 10, "low": 8, "highPct": 56, "lowPct": 44 },
+        { "line": 9.5, "high": 9, "low": 9, "highPct": 50, "lowPct": 50 },
+        { "line": 10.5, "high": 9, "low": 9, "highPct": 50, "lowPct": 50 },
+        { "line": 11.5, "high": 8, "low": 10, "highPct": 44, "lowPct": 56 },
+        { "line": 12.5, "high": 5, "low": 13, "highPct": 28, "lowPct": 72 }
+      ],
+      "home": [
+        { "line": 8.5, "high": 5, "low": 4, "highPct": 56, "lowPct": 44 },
+        { "line": 9.5, "high": 5, "low": 4, "highPct": 56, "lowPct": 44 },
+        { "line": 10.5, "high": 5, "low": 4, "highPct": 56, "lowPct": 44 },
+        { "line": 11.5, "high": 5, "low": 4, "highPct": 56, "lowPct": 44 },
+        { "line": 12.5, "high": 3, "low": 6, "highPct": 33, "lowPct": 67 }
+      ],
+      "away": [
+        { "line": 8.5, "high": 5, "low": 4, "highPct": 56, "lowPct": 44 },
+        { "line": 9.5, "high": 4, "low": 5, "highPct": 44, "lowPct": 56 },
+        { "line": 10.5, "high": 4, "low": 5, "highPct": 44, "lowPct": 56 },
+        { "line": 11.5, "high": 3, "low": 6, "highPct": 33, "lowPct": 67 },
+        { "line": 12.5, "high": 2, "low": 7, "highPct": 22, "lowPct": 78 }
+      ]
+    }
+  },
+  "firstTeamToScoreTable": {
+    "teamToScore": {
+      "homeTeam": {
+        "all": {
+          "matches": "31",
+          "scoreFirst": "10",
+          "oppositeScoreFirst": "18"
+        },
+        "home": {
+          "matches": "15",
+          "scoreFirst": "5",
+          "oppositeScoreFirst": "7"
+        },
+        "away": {
+          "matches": "16",
+          "scoreFirst": "5",
+          "oppositeScoreFirst": "11"
+        }
+      },
+      "awayTeam": {
+        "all": {
+          "matches": "31",
+          "scoreFirst": "11",
+          "oppositeScoreFirst": "16"
+        },
+        "home": {
+          "matches": "16",
+          "scoreFirst": "7",
+          "oppositeScoreFirst": "8"
+        },
+        "away": {
+          "matches": "15",
+          "scoreFirst": "4",
+          "oppositeScoreFirst": "8"
+        }
+      }
+    },
+    "scoreFirst": {
+      "homeTeam": {
+        "won": { "scoreFirst": "6", "oppositeScoreFirst": "1" },
+        "draw": { "scoreFirst": "3", "oppositeScoreFirst": "3" },
+        "lost": { "scoreFirst": "1", "oppositeScoreFirst": "14" }
+      },
+      "awayTeam": {
+        "won": { "scoreFirst": "8", "oppositeScoreFirst": "4" },
+        "draw": { "scoreFirst": "3", "oppositeScoreFirst": "5" },
+        "lost": { "scoreFirst": "0", "oppositeScoreFirst": "7" }
+      }
+    }
+  },
+  "hiLoTable": {
+    "homeTeam": {
+      "all": {
+        "halfTime": [
+          { "line": 0.5, "high": 18, "low": 13, "highPct": 58, "lowPct": 42 },
+          { "line": 1.5, "high": 6, "low": 25, "highPct": 19, "lowPct": 81 },
+          { "line": 2.5, "high": 2, "low": 29, "highPct": 6, "lowPct": 94 }
+        ],
+        "fullTime": [
+          { "line": 1.5, "high": 22, "low": 9, "highPct": 71, "lowPct": 29 },
+          { "line": 2.5, "high": 9, "low": 22, "highPct": 29, "lowPct": 71 },
+          { "line": 3.5, "high": 5, "low": 26, "highPct": 16, "lowPct": 84 }
+        ]
+      },
+      "home": {
+        "halfTime": [
+          { "line": 0.5, "high": 7, "low": 8, "highPct": 47, "lowPct": 53 },
+          { "line": 1.5, "high": 1, "low": 14, "highPct": 7, "lowPct": 93 },
+          { "line": 2.5, "high": 0, "low": 15, "highPct": 0, "lowPct": 100 }
+        ],
+        "fullTime": [
+          { "line": 1.5, "high": 10, "low": 5, "highPct": 67, "lowPct": 33 },
+          { "line": 2.5, "high": 2, "low": 13, "highPct": 13, "lowPct": 87 },
+          { "line": 3.5, "high": 1, "low": 14, "highPct": 7, "lowPct": 93 }
+        ]
+      },
+      "away": {
+        "halfTime": [
+          { "line": 0.5, "high": 11, "low": 5, "highPct": 69, "lowPct": 31 },
+          { "line": 1.5, "high": 5, "low": 11, "highPct": 31, "lowPct": 69 },
+          { "line": 2.5, "high": 2, "low": 14, "highPct": 13, "lowPct": 88 }
+        ],
+        "fullTime": [
+          { "line": 1.5, "high": 12, "low": 4, "highPct": 75, "lowPct": 25 },
+          { "line": 2.5, "high": 7, "low": 9, "highPct": 44, "lowPct": 56 },
+          { "line": 3.5, "high": 4, "low": 12, "highPct": 25, "lowPct": 75 }
+        ]
+      }
+    },
+    "awayTeam": {
+      "all": {
+        "halfTime": [
+          { "line": 0.5, "high": 19, "low": 12, "highPct": 61, "lowPct": 39 },
+          { "line": 1.5, "high": 5, "low": 26, "highPct": 16, "lowPct": 84 },
+          { "line": 2.5, "high": 4, "low": 27, "highPct": 13, "lowPct": 87 }
+        ],
+        "fullTime": [
+          { "line": 1.5, "high": 20, "low": 11, "highPct": 65, "lowPct": 35 },
+          { "line": 2.5, "high": 11, "low": 20, "highPct": 35, "lowPct": 65 },
+          { "line": 3.5, "high": 6, "low": 25, "highPct": 19, "lowPct": 81 }
+        ]
+      },
+      "home": {
+        "halfTime": [
+          { "line": 0.5, "high": 11, "low": 5, "highPct": 69, "lowPct": 31 },
+          { "line": 1.5, "high": 3, "low": 13, "highPct": 19, "lowPct": 81 },
+          { "line": 2.5, "high": 2, "low": 14, "highPct": 13, "lowPct": 88 }
+        ],
+        "fullTime": [
+          { "line": 1.5, "high": 12, "low": 4, "highPct": 75, "lowPct": 25 },
+          { "line": 2.5, "high": 5, "low": 11, "highPct": 31, "lowPct": 69 },
+          { "line": 3.5, "high": 3, "low": 13, "highPct": 19, "lowPct": 81 }
+        ]
+      },
+      "away": {
+        "halfTime": [
+          { "line": 0.5, "high": 8, "low": 7, "highPct": 53, "lowPct": 47 },
+          { "line": 1.5, "high": 2, "low": 13, "highPct": 13, "lowPct": 87 },
+          { "line": 2.5, "high": 2, "low": 13, "highPct": 13, "lowPct": 87 }
+        ],
+        "fullTime": [
+          { "line": 1.5, "high": 8, "low": 7, "highPct": 53, "lowPct": 47 },
+          { "line": 2.5, "high": 6, "low": 9, "highPct": 40, "lowPct": 60 },
+          { "line": 3.5, "high": 3, "low": 12, "highPct": 20, "lowPct": 80 }
+        ]
+      }
+    }
+  },
+  "fhHadTable": {
+    "homeTeam": {
+      "all": {
+        "teamWin": "8",
+        "teamDraw": "14",
+        "teamLoss": "9",
+        "winPct": 26,
+        "drawPct": 45,
+        "lossPct": 29
+      },
+      "home": {
+        "teamWin": "4",
+        "teamDraw": "8",
+        "teamLoss": "3",
+        "winPct": 27,
+        "drawPct": 53,
+        "lossPct": 20
+      },
+      "away": {
+        "teamWin": "4",
+        "teamDraw": "6",
+        "teamLoss": "6",
+        "winPct": 25,
+        "drawPct": 38,
+        "lossPct": 38
+      }
+    },
+    "awayTeam": {
+      "all": {
+        "teamWin": "5",
+        "teamDraw": "13",
+        "teamLoss": "13",
+        "winPct": 16,
+        "drawPct": 42,
+        "lossPct": 42
+      },
+      "home": {
+        "teamWin": "3",
+        "teamDraw": "6",
+        "teamLoss": "7",
+        "winPct": 19,
+        "drawPct": 38,
+        "lossPct": 44
+      },
+      "away": {
+        "teamWin": "2",
+        "teamDraw": "7",
+        "teamLoss": "6",
+        "winPct": 13,
+        "drawPct": 47,
+        "lossPct": 40
+      }
+    }
+  }
+}

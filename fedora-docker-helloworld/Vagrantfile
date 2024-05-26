@@ -1,0 +1,27 @@
+Vagrant.configure("2") do |config|
+  config.vm.define "fedora-helloworld" do |m|
+    m.vm.box = "fedora/39-cloud-base"
+    m.vm.box_version = "39.20231031.1"
+
+    m.vm.hostname = "fedora-helloworld"
+
+    m.vm.provision "shell", path: "./build_scripts/fedora_bootstrap.sh"
+    
+    config.vm.provider "virtualbox" do |vb|
+        vb.memory = "2048"
+    end
+
+    # m.vm.network "forwarded_port", guest: 5432, host: 15432
+    # m.vm.synced_folder "../../", "/home/vagrant/proyect"
+    # m.vm.network "private_network", ip: "192.168.33.11"
+    # m.vm.provider :virtualbox do |vb|
+    #   vb.customize [ 'modifyvm', :id, '--name', 'docker' ]
+    #   vb.customize [ 'modifyvm', :id, '--cpus', '1' ]
+    #   vb.customize [ 'modifyvm', :id, '--memory', '2048' ]
+    # end
+
+    # m.vm.provision "shell", path: "./build_scripts/docker.sh"
+    # m.vm.provision "shell", path: "postgres.sh"
+
+  end  
+end

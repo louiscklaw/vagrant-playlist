@@ -1,0 +1,186 @@
+{
+    "data": {
+        "recent8Results": {
+            "homeTeam": [
+                {
+                    "competitionName": "Belgian Division 1",
+                    "kickOff": "2024-01-21 15:00:00",
+                    "homeOrAway": "H",
+                    "oppTeamName": "Sint Truiden",
+                    "teamPos": 8,
+                    "fullTimeScore": "2:1",
+                    "halfTimeScore": "1:1",
+                    "fullTimeResult": "W",
+                    "firstHalfHad": "D"
+                },
+                {
+                    "competitionName": "Belgian Division 1",
+                    "kickOff": "2023-12-26 19:45:00",
+                    "homeOrAway": "A",
+                    "oppTeamName": "Bruges",
+                    "teamPos": 4,
+                    "fullTimeScore": "1:1",
+                    "halfTimeScore": "1:0",
+                    "fullTimeResult": "D",
+                    "firstHalfHad": "W"
+                },
+                {
+                    "competitionName": "Belgian Division 1",
+                    "kickOff": "2023-12-23 15:00:00",
+                    "homeOrAway": "A",
+                    "oppTeamName": "Eupen",
+                    "teamPos": 14,
+                    "fullTimeScore": "2:1",
+                    "halfTimeScore": "2:0",
+                    "fullTimeResult": "W",
+                    "firstHalfHad": "W"
+                },
+                {
+                    "competitionName": "Belgian Division 1",
+                    "kickOff": "2023-12-17 15:00:00",
+                    "homeOrAway": "H",
+                    "oppTeamName": "KV Mechelen",
+                    "teamPos": 11,
+                    "fullTimeScore": "1:0",
+                    "halfTimeScore": "0:0",
+                    "fullTimeResult": "W",
+                    "firstHalfHad": "D"
+                },
+                {
+                    "competitionName": "UE Cup",
+                    "kickOff": "2023-12-14 17:45:00",
+                    "homeOrAway": "H",
+                    "oppTeamName": "Liverpool",
+                    "teamPos": 1,
+                    "fullTimeScore": "2:1",
+                    "halfTimeScore": "2:1",
+                    "fullTimeResult": "W",
+                    "firstHalfHad": "W"
+                },
+                {
+                    "competitionName": "Belgian Division 1",
+                    "kickOff": "2023-12-10 18:15:00",
+                    "homeOrAway": "A",
+                    "oppTeamName": "Charleroi",
+                    "teamPos": 12,
+                    "fullTimeScore": "3:1",
+                    "halfTimeScore": "1:0",
+                    "fullTimeResult": "W",
+                    "firstHalfHad": "W"
+                },
+                {
+                    "competitionName": "Belgian Cup",
+                    "kickOff": "2023-12-07 19:00:00",
+                    "homeOrAway": "A",
+                    "oppTeamName": "Waasland Beveren",
+                    "teamPos": null,
+                    "fullTimeScore": "2:0",
+                    "halfTimeScore": "0:0",
+                    "fullTimeResult": "W",
+                    "firstHalfHad": "D"
+                },
+                {
+                    "competitionName": "Belgian Division 1",
+                    "kickOff": "2023-12-03 18:15:00",
+                    "homeOrAway": "H",
+                    "oppTeamName": "Cercle Bruges",
+                    "teamPos": 5,
+                    "fullTimeScore": "2:1",
+                    "halfTimeScore": "2:1",
+                    "fullTimeResult": "W",
+                    "firstHalfHad": "W"
+                }
+            ],
+            "awayTeam": [
+                {
+                    "competitionName": "Belgian Division 1",
+                    "kickOff": "2024-01-21 17:30:00",
+                    "homeOrAway": "A",
+                    "oppTeamName": "OH Leuven",
+                    "teamPos": 14,
+                    "fullTimeScore": "1:1",
+                    "halfTimeScore": "0:1",
+                    "fullTimeResult": "D",
+                    "firstHalfHad": "L"
+                },
+                {
+                    "competitionName": "Belgian Division 1",
+                    "kickOff": "2023-12-27 19:45:00",
+                    "homeOrAway": "H",
+                    "oppTeamName": "Cercle Bruges",
+                    "teamPos": 7,
+                    "fullTimeScore": "2:0",
+                    "halfTimeScore": "1:0",
+                    "fullTimeResult": "W",
+                    "firstHalfHad": "W"
+                },
+                {
+                    "competitionName": "Belgian Division 1",
+                    "kickOff": "2023-12-23 19:45:00",
+                    "homeOrAway": "H",
+                    "oppTeamName": "Genk",
+                    "teamPos": 7,
+                    "fullTimeScore": "2:1",
+                    "halfTimeScore": "0:0",
+                    "fullTimeResult": "W",
+                    "firstHalfHad": "D"
+                },
+                {
+                    "competitionName": "Belgian Division 1",
+                    "kickOff": "2023-12-17 17:30:00",
+                    "homeOrAway": "A",
+                    "oppTeamName": "Antwerp",
+                    "teamPos": 4,
+                    "fullTimeScore": "1:1",
+                    "halfTimeScore": "1:0",
+                    "fullTimeResult": "D",
+                    "firstHalfHad": "W"
+                },
+                {
+                    "competitionName": "Belgian Division 1",
+                    "kickOff": "2023-12-10 17:30:00",
+                    "homeOrAway": "H",
+                    "oppTeamName": "Standard",
+                    "teamPos": 9,
+                    "fullTimeScore": "2:2",
+                    "halfTimeScore": "1:1",
+                    "fullTimeResult": "D",
+                    "firstHalfHad": "D"
+                },
+                {
+                    "competitionName": "Belgian Cup",
+                    "kickOff": "2023-12-07 19:30:00",
+                    "homeOrAway": "H",
+                    "oppTeamName": "Standard",
+                    "teamPos": null,
+                    "fullTimeScore": "2:0",
+                    "halfTimeScore": "1:0",
+                    "fullTimeResult": "W",
+                    "firstHalfHad": "W"
+                },
+                {
+                    "competitionName": "Belgian Division 1",
+                    "kickOff": "2023-12-01 19:45:00",
+                    "homeOrAway": "A",
+                    "oppTeamName": "Westerlo",
+                    "teamPos": 15,
+                    "fullTimeScore": "3:1",
+                    "halfTimeScore": "1:0",
+                    "fullTimeResult": "W",
+                    "firstHalfHad": "W"
+                },
+                {
+                    "competitionName": "Belgian Division 1",
+                    "kickOff": "2023-11-26 17:30:00",
+                    "homeOrAway": "H",
+                    "oppTeamName": "RWD Molenbeek",
+                    "teamPos": 10,
+                    "fullTimeScore": "2:1",
+                    "halfTimeScore": "0:1",
+                    "fullTimeResult": "W",
+                    "firstHalfHad": "L"
+                }
+            ]
+        }
+    }
+}
