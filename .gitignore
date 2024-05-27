@@ -1,4 +1,5 @@
-.vagrant
+**/.ssh
+**/.vagrant
 
 # Logs
 logs
